@@ -1,16 +1,14 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**Garrido-dev/Garrido-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Emanuel Garrido
 
-Here are some ideas to get you started:
+## Olá pessoal 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um analista desenvolvedor de sistemas e tenho prazer em resolver problemas do mundo real utilizando a programação.
+Programo em JCL, uma linguagem padrão da empresa XEROX para criação e manipulação de formulários e linguagens como (HTML, CSS, PHP) para o 'Web development'.
+
+- 🔭 Atualmente, trabalho na empresa PRODEMGE (Companhia de Tecnologia da Informação do Estado de Minas Gerais). 
+     Possuo várias atividades incluindo entre elas a que mais gosto, programar! 
+- 🎓 Estou aprendendo a linguagem Javascript para 'codar' melhor minhas 'web pages'.
+- 💬 Sobre mim: Curto tecnologias 💡, música 🎸, games 🎮 FIFA, Rainbow Six e seriados no Netflix 📺.
+- ✉️ Entre em contato comigo: Linkedin: https://www.linkedin.com/in/emanuelgarridoalves/, Email: emanuel.garrido@hotmail.com
