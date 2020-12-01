@@ -15,5 +15,5 @@ Programo em:
 │ 🚀 Possuo várias atividades incluindo entre elas a que mais gosto, programar!                                              
 │ 🎓 Estou aprendendo a linguagem Javascript e aperfeiçoando em Spring Boot e Angular para 'codar' melhor as 'web pages'.    
 │ 💬 Sobre mim: Curto tecnologias 💡, música 🎸, games 🎮 e seriados no Netflix 📺.                                         
-│ ✉️ Entre em contato comigo: Linkedin: https://www.linkedin.com/in/emanuelgarridoalves/, Email: emanuel.garrido@hotmail.com 
+│ ✉️ Entre em contato comigo: Linkedin: https://www.linkedin.com/in/emanuelgarridoalves/, Email: emanuel.garrido@hotmail.com                     
 └───                                                                                                             
