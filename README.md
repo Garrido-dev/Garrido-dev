@@ -5,7 +5,9 @@
 
 Sou um analista desenvolvedor de sistemas e tenho prazer em resolver problemas do mundo real utilizando a programação.
 
+
 Programo em: JAVA(Spring Boot), PHP, HTML, Angular, Bootstrap, CSS.
+
                                                                                                                                    
 🔭 Atualmente, trabalho na empresa PRODEMGE (Companhia de Tecnologia da Informação do Estado de Minas Gerais).  
 
